@@ -1,8 +1,8 @@
-num = int(input())
+k = int(input())
 
-mod = num % 2
+mod = k % 2
 
-if num < 0:
+if k < 0:
 
     print("invalid")
 elif mod > 0:
