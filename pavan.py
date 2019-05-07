@@ -2,7 +2,7 @@ num = int(input())
 
 mod = num % 2
 
-if num > 0:
+if mod > 0:
 
     print("Odd")
 elif num < 0:
